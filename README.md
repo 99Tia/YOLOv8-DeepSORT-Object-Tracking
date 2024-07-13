@@ -1,5 +1,5 @@
 
-# Vehicle detection, tracking, and counting using YOLOv8 and DeepSORT.
+# Vehicle detection, tracking, and counting using YOLOv8 and DeepSORT algorithm.
 
 This project utilizes advanced computer vision techniques to detect, track, and count vehicles in real-time from video streams. By combining the powerful YOLOv8 object detection algorithm with the DeepSORT tracking algorithm, we achieve robust and accurate vehicle monitoring. This technology can be applied in various domains, such as traffic management, surveillance, and urban planning. 
 
